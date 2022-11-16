@@ -1,4 +1,4 @@
-![Holberton School](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/ke17ZwdGBToddI8pDm48kNp8pt3EdxuCXc7Btqw6aCUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc582kKJI7R4YoEbaG0ar5y9SuJlHH4BCe-KXYJFHtaWtSg47dcfuoHTlsl7xAkdij/logo.jpg?format=2500w)
+![ALX](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/ke17ZwdGBToddI8pDm48kNp8pt3EdxuCXc7Btqw6aCUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc582kKJI7R4YoEbaG0ar5y9SuJlHH4BCe-KXYJFHtaWtSg47dcfuoHTlsl7xAkdij/logo.jpg?format=2500w)
 
 # 0x16. C - Simple Shell
 
@@ -120,5 +120,4 @@ $
   - [Blog LinkedIn](https://www.linkedin.com/pulse/what-happens-when-you-type-ls-l-shell-marisol-ram%C3%ADrez-henao/?published=t)
 
 ## Authors
-- **Marisol Ramirez Henao** - [Marisol github](https://github.com/Marisol2201)
-- **David Alejandro Hincapie** - [David github](https://github.com/dalejohgi)
+- **Farai Simba** - [Farai github](https://github.com/fadastro)
